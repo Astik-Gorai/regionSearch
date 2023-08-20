@@ -1,0 +1,5 @@
+9  1
+1  5
+Optimal Answer Obtained by Greedy Approach is : 283
+
+
